@@ -1,10 +1,6 @@
 #include <bits/stdc++.h>
 #include <string>
-//helo
 
-class n {
-
-};
 
 using namespace std;
 
